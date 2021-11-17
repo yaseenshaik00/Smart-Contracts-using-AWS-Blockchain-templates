@@ -42,7 +42,7 @@
 
 Client-server applications dominated the software development landscape. Despite the advancements in technologies and architecture, the fundamental model remained the same. In this repo, I've developed Applications on Ethereum Blockchain, which is decentralized applications of Ethereum.
 
-Topics I implemented:
+### Topics I implemented:
 * Time in Smart Contracts	
 * Enums & Ether Units
 * Function Modifiers
@@ -61,7 +61,7 @@ Topics I implemented:
 
 The tools that have been used in the project are mentioned below:
 
-* [AWS](https://aws.amazon.com//)
+* [AWS](https://aws.amazon.com/)
 * [Ethereum](https://ethereum.org/en/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.10/)
 * [Blockchain template](https://docs.aws.amazon.com/blockchain-templates/)
